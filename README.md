@@ -1,4 +1,4 @@
-# Employee-Attrition-
+# Employee-Attrition-Case
 The data is for company X which is trying to control attrition. There are two sets of data: “Existing employees” and “Employees who have left <br> 
 OUTPUT OF THE PROJECT: <br>
 CREATE A MS PRESENTATION EXPLAINING THE REASONS EMPLOYEE ARE PRONE TO LEAVE AFTER ANALYSING THIS DATA SET. <br>
